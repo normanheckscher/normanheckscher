@@ -15,7 +15,7 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
 
 ## 🛠️ Key Technical Projects
 
-### [Incline](https://github.com) — Open-Source Mining CAD (MIT)
+### [Incline](https://github.com/Incline-Developers/Incline-Design) — Open-Source Mining CAD (MIT)
 * **Role:** Domain Contributor & Core Geological Architect.
 * **Focus Areas:** 
   * Extending open-pit CAD capabilities into stratigraphic coal geology.
