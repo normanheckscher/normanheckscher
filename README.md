@@ -33,7 +33,7 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
 
 ## 🛠️ Key Technical Focus Areas
 
-### 🔄 Single-Model Reconciliation Systems (GEOCAD & Incline)
+### 🔄 Single-Model Reconciliation Systems (GeoCAD & Incline)
 * **Eliminating the "Model Gap":** Engineering software architectures that replace the traditional split between long-term resource models and short-term grade control models. 
 * **Continuous Conditioning:** Building one mainline, running model continuously conditioned by active production data (survey depletion, dispatch, weightometers) to remove the tracking gaps where geological accountability goes to die.
 * **Algorithmic Surface Foundations:** Replacing biased Inverse Distance Weighting (IDW) methods with exact Radial Basis Functions (RBFs) to preserve precise faulted structures rather than outputting smoothed, unrealistic terrain grids.
