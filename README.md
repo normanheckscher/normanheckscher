@@ -89,4 +89,4 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
 * **Credentials:** MAusIMM (Member of the Australasian Institute of Mining and Metallurgy)
 * **Core Philosophy:** *Equally at home with a laptop terminal running over SSH on a remote site as I am on a high-wall auger miner.*
 * **Location:** Moranbah, Queensland, Australia
-* **GitHub:** [@normanheckscher](https://github.com)
+* **GitHub:** [@normanheckscher](https://github.com/normanheckscher)
