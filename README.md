@@ -23,11 +23,11 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
   * Implementing robust true-thickness trigonometry to eliminate volume distortion in inclined and faulted seams.
 
 ### GeoCAD — Depletion & Stratigraphic Reconciliation Engine *(prototype; merging into Incline)*
-* **Role:** Lead Architect & Developer.
+* **Role:** Original Architect & Developer.
 * **Architecture:** 
   * Modular reconciliation engine built to audit short-term pit depletion against long-term resource models.
   * Custom stratigraphic surface generation using RBFs and exact structural dip vectors.
-  * Fully transparent, open-license code base designed to provide an open alternative to commercial legacy packages.
+  * Prototype for the reconciliation and surface work now landing in [Incline](https://github.com/Incline-Developers/Incline-Design).
 
 ---
 
