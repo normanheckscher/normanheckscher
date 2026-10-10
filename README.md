@@ -22,7 +22,7 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
   * Implementing drillhole composite parsing, horizon correlation, and slice-view section snapping.
   * Implementing robust true-thickness trigonometry to eliminate volume distortion in inclined and faulted seams.
 
-### GeoCAD — Depletion & Stratigraphic Reconciliation Engine *(private; core work being upstreamed into Incline)*
+### GeoCAD — Depletion & Stratigraphic Reconciliation Engine *(prototype; merging into Incline)*
 * **Role:** Lead Architect & Developer.
 * **Architecture:** 
   * Modular reconciliation engine built to audit short-term pit depletion against long-term resource models.
