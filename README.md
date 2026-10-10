@@ -22,7 +22,7 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
   * Implementing drillhole composite parsing, horizon correlation, and slice-view section snapping.
   * Implementing robust true-thickness trigonometry to eliminate volume distortion in inclined and faulted seams.
 
-### GeoCAD — Depletion & Stratigraphic Reconciliation Engine
+### GeoCAD — Depletion & Stratigraphic Reconciliation Engine *(private; core work being upstreamed into Incline)*
 * **Role:** Lead Architect & Developer.
 * **Architecture:** 
   * Modular reconciliation engine built to audit short-term pit depletion against long-term resource models.
@@ -54,10 +54,10 @@ My technical focus centers on dismantling the "black-box" limitations of legacy 
 
 ### 📑 Professional Articles (LinkedIn)
 
-* **Nobody Owns the Miss (August 2026)**  
+- **[Nobody Owns the Miss](https://www.linkedin.com/pulse/nobody-owns-miss-norman-heckscher-jmikc)** (August 2026)  
   *An architectural critique of mine site reconciliation reporting (F1, F2, F3 chains). Exposes how maintaining two separate, unaligned geological orebodies allows structural errors (like sub-seismic faulting) to disappear into the data shuffle. Proposes a version-controlled "single running model" system as the only viable mechanism for continuous optimization.*
 
-* **Inverting the Exploration Paradigm: A Radical Approach to Geological Training and Resource Extraction (December 2024)**  
+- **[Inverting the Exploration Paradigm: A Radical Approach to Geological Training and Resource Extraction](https://www.linkedin.com/pulse/inverting-exploration-paradigm-radical-approach-norman-heckscher-xsw4c)** (December 2024)  
   *An operational manifesto arguing that discovery rates improve only when junior geologists build deep competency "at the coal face" before moving to greenfield programs. Outlines a structured, competency-based framework linking core mapping, structural dip predictions, and real-time mine reconciliation directly to technical advancement.*
 
 ### 🎓 Selected Technical Papers
